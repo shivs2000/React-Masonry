@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Masonry/static/css/main.675b2edb.chunk.css",
+    "main.js": "/React-Masonry/static/js/main.e6edd3b9.chunk.js",
+    "main.js.map": "/React-Masonry/static/js/main.e6edd3b9.chunk.js.map",
+    "runtime-main.js": "/React-Masonry/static/js/runtime-main.6c3c5d76.js",
+    "runtime-main.js.map": "/React-Masonry/static/js/runtime-main.6c3c5d76.js.map",
+    "static/js/2.1e40fdf2.chunk.js": "/React-Masonry/static/js/2.1e40fdf2.chunk.js",
+    "static/js/2.1e40fdf2.chunk.js.map": "/React-Masonry/static/js/2.1e40fdf2.chunk.js.map",
+    "static/js/3.c891fa8e.chunk.js": "/React-Masonry/static/js/3.c891fa8e.chunk.js",
+    "static/js/3.c891fa8e.chunk.js.map": "/React-Masonry/static/js/3.c891fa8e.chunk.js.map",
+    "index.html": "/React-Masonry/index.html",
+    "static/css/main.675b2edb.chunk.css.map": "/React-Masonry/static/css/main.675b2edb.chunk.css.map",
+    "static/js/2.1e40fdf2.chunk.js.LICENSE.txt": "/React-Masonry/static/js/2.1e40fdf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c3c5d76.js",
+    "static/js/2.1e40fdf2.chunk.js",
+    "static/css/main.675b2edb.chunk.css",
+    "static/js/main.e6edd3b9.chunk.js"
+  ]
+}
